@@ -45,7 +45,7 @@ footer:
       link: https://dribbble.com/YourDribbbleUsername
     - type: rss
       name: RSS
-      link: /feed.xml
+      link: /bay-demo/feed.xml
 
 # Build settings
 markdown: kramdown
